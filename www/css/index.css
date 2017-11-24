@@ -1,0 +1,42 @@
+html, head, body{
+    background-color: whitesmoke;
+}
+.m{
+    background-color: red;
+    margin-top: 0;
+    margin-left: 0;
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    font-size: 3em;
+    left: 0;
+    top: 0;
+}
+.p{
+    background-color: limegreen;
+    margin-top: 0;
+    margin-left: 0;
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    font-size: 3em;
+    left: 0;
+    bottom: 0;
+}
+footer{
+    margin-bottom: 0;
+    bottom: 0;
+    background-color: white;
+    position: absolute;
+    width: 100%;
+    height: 15%;
+    margin-left: 0;
+    left: 0;
+    text-align: center;
+    
+}
+footer > b{
+    position: absolute;
+    top: 10%;
+    font-size: 2em;
+}
